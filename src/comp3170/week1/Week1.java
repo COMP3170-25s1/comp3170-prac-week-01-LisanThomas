@@ -31,6 +31,7 @@ public class Week1 implements  IWindowListener  {
 	private int screenWidth = 800;
 	private int screenHeight = 800;
 	private Scene scene;
+	
 
 
 	public Week1() throws OpenGLException {
